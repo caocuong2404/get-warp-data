@@ -15,7 +15,7 @@ If your computer avalibale python ==>
 - Go to console tab and paste javascript code here
 - Enjoy!
 
-### Get your ID tutorial
+### Instructions for obtaining your id
 
 - Install app 1.1.1.1 (if don't have..): https://one.one.one.one/
 - Get your Client ID: Settings > More Settings > Diagnostics > ID (copy this)
