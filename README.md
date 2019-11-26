@@ -12,8 +12,7 @@ If your computer avalibale python ==>
 ### 2 way:
 - Open browser and go to website: [Repl.it - The world's leading online coding platform](https://repl.it/)
 - Create **New Repl** with **python** language 
-- Run code ```python main.py```
-- Paste code from my repository
+- Paste code from repository
 - Enjoy! :)
 
 ### 3 way (with browser. .i.g: chrome/firefox/edge/tor/...):
