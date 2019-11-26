@@ -9,7 +9,14 @@ If your computer avalibale python ==>
 - Enter your ID & the number of GB as you want
 - Enjoy! :)
 
-### 2 way (with browser. .i.g: chrome/firefox/edge/tor/...):
+### 2 way:
+- Open browser and go to website: [Repl.it - The world's leading online coding platform](https://repl.it/)
+- Create **New Repl** with **python** language 
+- Run code ```python main.py```
+- Paste code from my repository
+- Enjoy! :)
+
+### 3 way (with browser. .i.g: chrome/firefox/edge/tor/...):
 - Open browser (any browser you have)
 - F12/Ctrl+Shift+I to DevTool
 - Go to console tab and paste javascript code here
