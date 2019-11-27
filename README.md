@@ -3,7 +3,7 @@
 ## With Python
 
 ### 1 way:
-If your computer avalibale python ==>
+If your computer available python ==>
 - Download file main.py or clone repository to your computer
 - Run code ```python main.py```
 - Enter your ID & the number of GB as you want
