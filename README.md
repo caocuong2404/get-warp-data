@@ -1,6 +1,5 @@
 # Code get WARP+ 1111 App data with any programming language
 - by [Peter Nguyen](https://www.google.com/search?q=caocuong2404)
-## With Python
 
 ### 1 way:
 If your computer available ***python 3*** ==>
